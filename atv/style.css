@@ -1,0 +1,30 @@
+ 
+ 
+ body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    button {
+      padding: 15px 30px;
+      margin: 10px;
+      border: none;
+      border-radius: 10px;
+      color: white;
+      font-size: 16px;
+    }
+    button:hover{
+        /* ele faz com que o butão aumente de tamanho em 10% */
+        transform: scale(1.1);
+    }
+      #vermelho {
+      background-color: red;
+    }
+
+    #verde {
+      background-color: green;
+    }
+
+    #azul {
+      background-color: blue;
+    }
